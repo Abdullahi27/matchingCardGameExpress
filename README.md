@@ -1,11 +1,14 @@
-![21 Savage](public/21savage.jpg)
+# ♠️ Week08 Bootcamp2019a Project: Matching Card Game
 
-## Installation
 
-1. Clone repo
-2. run `npm install`
 
-## Usage
+## Link to project 
 
-1. run `npm run savage`
-2. Navigate to `localhost:3000`
+<a href="https://fifa22matching.netlify.app" rel="nofollow"><img src="fifa.gif" alt=""></a>
+
+<a href="https://fifa22matching.netlify.app" rel="nofollow">Visit Website</a>
+
+
+
+### Goal: Make a 10 card memory game - users must be able to select two cards and check if they are a match. If they are a match, they stay flipped. If not, they flip back over. Game is done when all cards are matched and flipped over. Example: http://www.fruit-burst.co.uk/fun-and-games/pairs-game 
+
